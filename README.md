@@ -14,10 +14,14 @@ These are the following questions that can be answered using the reactions peopl
 > 1. How many people re-tweet on the tweet?  
 > 2. How many people mark the tweet as a 'favorite/ like'?  
   
-Please check the output [file](https://github.com/sushantgupta1206/GUPSUS01/blob/master/ExpediaTwitterScrapper/Top_8_Tweets.json) here. It contains json objects listed in the original form. The file will be auto-generated when we run the code.   
-The below is an edited version of the sample output I get after running the code: 
-![image](EditedOutput.png)
+Please check the output [file](https://github.com/sushantgupta1206/GUPSUS01/blob/master/ExpediaTwitterScrapper/Top_8_Tweets.json) here. It contains json objects listed in the original form. The file will be auto-generated when we run the code.    
   
+The below is an edited version of the sample output I get after running the code:   
+  
+![](https://github.com/sushantgupta1206/GUPSUS01/blob/master/EditedOutput.PNG)  
+
+
+    
 **Steps to Run the code:**   
 > 1. clone the repository using `git clone https://github.com/sushantgupta1206/GUPSUS01.git` on the local machine  
 > 2. Navigate to the folder `\GUPSUS01\ExpediaTwitterScrapper`  
