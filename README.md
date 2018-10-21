@@ -25,9 +25,9 @@ The below is an edited version of the sample output I get after running the code
 **Steps to Run the code:**   
 > 1. clone the repository using `git clone https://github.com/sushantgupta1206/GUPSUS01.git` on the local machine  
 > 2. Navigate to the folder `\GUPSUS01\ExpediaTwitterScrapper`  
-> 3. install dependencies using `pip install bs4` for beautiful soup; `pip install Scrapy` for installing Scrapy  
+> 3. Install dependencies using `pip install bs4` for beautiful soup; `pip install Scrapy` for installing Scrapy  
 > 4. navigate the the '\GUPSUS01\ExpediaTwitterScrapper' folder and then run the spider by using `scrapy crawl expedia_spider` where expedia_spider is the name of the spider I use to scrape the Twitter feed of Expedia.  
-> 5. Please check the 'Top_8_tweets.json' file to verify the output. 
+> 5. Please check the 'Top_8_tweets.txt' file to verify the output. 
 
 **Further Analysis/ Edits:**   
 1. Get the total number of followers for the Expedia's twitter feed and find the number of people who re-tweet and like the tweets. 
